@@ -13,7 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: gray;
+    background: linear-gradient(rgba(38, 0, 255, 0.533),#0ee49d);
   }
   
   #box_wifi{
