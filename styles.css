@@ -37,6 +37,7 @@
   #header i{
     font-size: 30px;
     color: #0073dd;
+    cursor: pointer;
   }
   
   #list{
@@ -73,8 +74,12 @@
   .wifi i{
     color: #0073dd;
   }
+
+  .wifi ul{
+    color: #0073dd;
+  }
   
-  .wifi ul li:nth-child(2n+1){
+  .wifi ul li:nth-child(2){
     color: #0073dd;
   }
   
